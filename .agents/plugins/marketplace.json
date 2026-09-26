@@ -1,0 +1,20 @@
+{
+  "name": "anil-adly-live-site-seo",
+  "interface": {
+    "displayName": "Anil Adly Live Site Seo"
+  },
+  "plugins": [
+    {
+      "name": "live-site-seo",
+      "source": {
+        "source": "local",
+        "path": "./plugins/live-site-seo"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "live-site-seo",
+  "version": "1.0.0",
+  "description": "Audit launched websites for Google organic traffic, technical SEO, useful content, structured data, and AdSense readiness.",
+  "author": {
+    "name": "anil-adly",
+    "url": "https://github.com/anil-adly"
+  },
+  "homepage": "https://github.com/anil-adly/live-site-seo",
+  "repository": "https://github.com/anil-adly/live-site-seo",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "google-search",
+    "adsense",
+    "technical-seo",
+    "schema",
+    "free-tools"
+  ],
+  "skills": "./skills/"
+}

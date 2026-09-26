@@ -1,0 +1,14 @@
+{
+  "name": "anil-adly-live-site-seo",
+  "owner": {
+    "name": "anil-adly"
+  },
+  "plugins": [
+    {
+      "name": "live-site-seo",
+      "source": "./plugins/live-site-seo",
+      "description": "Audit launched websites for Google organic traffic, technical SEO, useful content, structured data, and AdSense readiness."
+    }
+  ],
+  "description": "Live Site SEO: an evidence-based audit skill for launched websites."
+}

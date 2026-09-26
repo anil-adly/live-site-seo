@@ -1,0 +1,4 @@
+interface:
+  display_name: "Live Site SEO"
+  short_description: "Audit launched websites for Google traffic and ads"
+  default_prompt: "Use $live-site-seo to audit my launched website for Google search traffic and AdSense readiness."
